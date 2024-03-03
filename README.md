@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Notion-clone
 Notion-clone
 =======
@@ -75,3 +76,6 @@ npx convex dev
 npm run dev
 ```
 >>>>>>> 37c63b986a01124468599e852f2b9bf976756afd
+=======
+
+>>>>>>> 063128eeaaff46e151f69e7035f233fa52d054b3
